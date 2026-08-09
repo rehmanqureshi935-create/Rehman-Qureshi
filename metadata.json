@@ -1,0 +1,6 @@
+{
+  "name": "ExamMate",
+  "description": "Smart Exam Preparation App for Pakistani board students featuring topic-wise MCQs, weak topic analysis, mistake notebook, and mock tests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
